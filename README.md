@@ -1,5 +1,6 @@
 # punch
 crunch like password generator in Perl
+> Thanks to [Mega](https://github.com/Megaaaaaa) for the help
 
 # Usage
 ```
