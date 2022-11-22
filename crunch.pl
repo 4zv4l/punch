@@ -13,7 +13,7 @@ my $bytes = 0; # include newlines
 for my $i ($min..$max) { $bytes += ($lines * ($i+1))}
 
 warn "number of lines: $lines\n";
-warn "data generated : $bytes bytes\n";
+warn "number of bytes: $bytes\n";
 sleep(2);
 
 # gen possibilities for each length
